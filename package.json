@@ -1,8 +1,8 @@
 {
   "name": "react-modal-datepicker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple react date picker",
-  "main": "./dist/react-modal-date-picker.js",
+  "main": "./dist/react-modal-datepicker.js",
   "dependencies": {
     "moment": "^2.12.0"
   },
