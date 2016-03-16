@@ -58,21 +58,6 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	module.exports = __webpack_require__(1);
 
-	// import React from 'react'
-	// import ReactDOM from 'react-dom';
-	// import App from './components/App';
-	// import './styles/app.css';
-	// import './styles/magic.css';
-
-	// const node = document.createElement('div');
-
-	// (function() {
-	//   const node = document.createElement('div');
-
-	//   document.getElementsByTagName('body')[0].appendChild(node);
-	//   return ReactDOM.render(<App />, node);
-	// })();
-
 /***/ },
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {

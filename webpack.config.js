@@ -8,7 +8,7 @@ module.exports = {
     library: 'ModalDatePicker',
     libraryTarget: 'umd',
     path: 'dist',
-    filename: 'react-modal-datapicker.js'
+    filename: 'react-modal-datepicker.js'
   },
 
   module: {
