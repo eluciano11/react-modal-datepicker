@@ -1,5 +1,5 @@
 {
-  "name": "react-datepicker",
+  "name": "react-modal-datepicker",
   "version": "1.0.0",
   "description": "Simple react date picker",
   "main": "./lib/index.js",
